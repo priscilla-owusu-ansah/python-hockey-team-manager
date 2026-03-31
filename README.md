@@ -1,8 +1,9 @@
 # Hockey Team Manager
 
-A Python desktop application for managing hockey teams.
+## Application Preview
+![Hockey Team Manager](app_screenshot.png)
 
-The project demonstrates object-oriented programming and includes both a command-line interface and a graphical interface built with Tkinter.
+A Python desktop application for managing hockey teams using OOP and Tkinter GUI.
 
 ## Features
 
